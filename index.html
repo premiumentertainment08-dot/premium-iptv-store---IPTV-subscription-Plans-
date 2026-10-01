@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Premium IPTV Store</title>
+<meta name="description" content="Premium IPTV plans and subscriptions.">
+<style>
+:root{--bg:#07080c;--card:#11141b;--muted:#9ca3af;--text:#f7f7f8;--accent:#7c5cff;--accent2:#00d4ff;--line:#222733}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 80% -10%,#27205a 0,transparent 35%),var(--bg);color:var(--text);font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif}
+a{text-decoration:none;color:inherit}.wrap{max-width:1180px;margin:auto;padding:0 20px}
+nav{height:72px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);position:sticky;top:0;background:#07080ce8;backdrop-filter:blur(15px);z-index:5}
+.logo{font-size:20px;font-weight:800}.logo span{color:var(--accent2)}
+.navlinks{display:flex;gap:24px;color:#cbd0da;font-size:14px}.btn{display:inline-flex;align-items:center;justify-content:center;border:0;border-radius:12px;padding:12px 18px;font-weight:700;cursor:pointer;background:linear-gradient(90deg,var(--accent),var(--accent2));color:#fff}
+.hero{padding:80px 0 55px;display:grid;grid-template-columns:1.15fr .85fr;gap:45px;align-items:center}.eyebrow{color:#78e8ff;font-weight:800;letter-spacing:1.5px;font-size:12px}.hero h1{font-size:clamp(42px,6vw,72px);line-height:.98;margin:15px 0}.hero p{font-size:18px;color:var(--muted);line-height:1.7;max-width:620px}.heroBtns{display:flex;gap:12px;margin-top:25px}.ghost{border:1px solid #343947;background:#11141b;padding:12px 18px;border-radius:12px;font-weight:700}
+.tv{min-height:330px;border:1px solid #303645;border-radius:25px;background:linear-gradient(145deg,#171a24,#0b0d12);box-shadow:0 25px 80px #0008;padding:24px;display:flex;align-items:center;justify-content:center}.screen{width:100%;aspect-ratio:16/10;border-radius:15px;background:linear-gradient(135deg,#24204f,#071c2b);border:8px solid #050609;display:flex;align-items:center;justify-content:center;text-align:center}.screen b{font-size:34px}.section{padding:55px 0}.section h2{font-size:34px;margin:0 0 10px}.sub{color:var(--muted);margin-bottom:25px}.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:22px}.filter,.search{background:#10131a;border:1px solid var(--line);color:#fff;border-radius:10px;padding:11px 13px}.search{min-width:230px;flex:1}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.card{background:linear-gradient(180deg,#131720,#0d1016);border:1px solid var(--line);border-radius:18px;padding:22px;position:relative}.tag{position:absolute;right:15px;top:15px;font-size:11px;padding:5px 8px;border-radius:20px;background:#252033;color:#cbbfff}.card h3{margin:0 0 8px;font-size:21px}.price{font-size:32px;font-weight:850;margin:15px 0}.price small{font-size:13px;color:var(--muted);font-weight:500}.features{list-style:none;padding:0;margin:18px 0;color:#c7ccd6;line-height:2}.features li::before{content:"✓";color:#66e4ff;margin-right:8px;font-weight:800}.card .btn{width:100%}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.step{padding:22px;border:1px solid var(--line);border-radius:16px;background:#0e1117}.num{font-size:12px;color:#7ee8ff;font-weight:800}.step h3{margin:9px 0}.step p{color:var(--muted);line-height:1.6}
+footer{border-top:1px solid var(--line);padding:28px 0;color:#8f96a3;font-size:13px}.notice{font-size:12px;color:#7f8794;margin-top:18px}
+.modal{display:none;position:fixed;inset:0;background:#000b;z-index:10;align-items:center;justify-content:center;padding:20px}.modal.show{display:flex}.modalbox{max-width:470px;width:100%;background:#11141b;border:1px solid #303645;border-radius:18px;padding:24px}.close{float:right;background:none;border:0;color:#fff;font-size:22px;cursor:pointer}
+@media(max-width:800px){.hero{grid-template-columns:1fr;padding-top:50px}.grid,.steps{grid-template-columns:1fr}.navlinks{display:none}.tv{min-height:250px}}
+</style>
+</head>
+<body>
+<nav><div class="wrap" style="width:100%;display:flex;justify-content:space-between;align-items:center">
+<div class="logo">PREMIUM <span>IPTV</span></div>
+<div class="navlinks"><a href="#plans">Plans</a><a href="#features">How it works</a><a href="#contact">Contact</a></div>
+<a class="btn" href="#plans">View Plans</a></div></nav>
+
+<main>
+<section class="hero wrap">
+<div><div class="eyebrow">IPTV • STREAMING • ENTERTAINMENT</div>
+<h1>Your entertainment.<br><span style="background:linear-gradient(90deg,#8b72ff,#55e7ff);-webkit-background-clip:text;color:transparent">One simple plan.</span></h1>
+<p>Browse subscription plans, compare durations and place your order in a few clicks. Designed for Smart TV, Android TV, Fire TV, mobile and laptop.</p>
+<div class="heroBtns"><a class="btn" href="#plans">Explore Plans</a><a class="ghost" href="#features">Learn More</a></div></div>
+<div class="tv"><div class="screen"><div><b>LIVE<br>ENTERTAINMENT</b><div style="color:#9da5b5;margin-top:8px">Premium IPTV Store</div></div></div></div>
+</section>
+
+<section id="plans" class="section wrap">
+<h2>Popular IPTV Plans</h2><div class="sub">Choose a duration that fits you.</div>
+<div class="toolbar"><input id="search" class="search" placeholder="Search plans..."><select id="duration" class="filter"><option value="all">All durations</option><option>3 Months</option><option>6 Months</option><option>12 Months</option></select></div>
+<div id="products" class="grid"></div>
+</section>
+
+<section id="features" class="section wrap">
+<h2>How it works</h2><div class="sub">Simple ordering flow for customers.</div>
+<div class="steps">
+<div class="step"><div class="num">01</div><h3>Choose a plan</h3><p>Compare duration, devices and features before ordering.</p></div>
+<div class="step"><div class="num">02</div><h3>Place your order</h3><p>Use the order button to contact your store or connect your checkout.</p></div>
+<div class="step"><div class="num">03</div><h3>Activate</h3><p>After payment verification, provide the customer's authorized subscription details.</p></div>
+</div>
+</section>
+</main>
+
+<footer id="contact"><div class="wrap"><b>PREMIUM IPTV STORE</b><br><br>Support: WhatsApp / Email<br><div class="notice">Only offer IPTV services and channels/content that you are legally authorized to distribute. Replace the demo prices and order link with your real checkout details before publishing.</div></div></footer>
+
+<div id="modal" class="modal"><div class="modalbox"><button class="close" onclick="closeModal()">×</button><h2 id="modalTitle">Order</h2><p id="modalText" style="color:#aeb5c1"></p><a id="orderBtn" class="btn" style="width:100%" target="_blank">Continue to Order</a></div></div>
+
+<script>
+const products=[
+{name:"IPTV Basic",duration:"3 Months",price:"₹399",tag:"Popular",features:["1 Device","HD Streaming","24/7 Support"]},
+{name:"IPTV Plus",duration:"6 Months",price:"₹699",tag:"Best Value",features:["1 Device","HD / Full HD","VOD Access","24/7 Support"]},
+{name:"IPTV Premium",duration:"12 Months",price:"₹1,199",tag:"12 Months",features:["1 Device","HD / Full HD","VOD Access","Multi-platform","24/7 Support"]}
+];
+const box=document.getElementById("products"), search=document.getElementById("search"), duration=document.getElementById("duration");
+function render(){let q=search.value.toLowerCase(),d=duration.value;box.innerHTML=products.filter(p=>(p.name+p.duration).toLowerCase().includes(q)&&(d==="all"||p.duration===d)).map((p,i)=>`
+<article class="card"><span class="tag">${p.tag}</span><h3>${p.name}</h3><div style="color:#8f97a6">${p.duration}</div><div class="price">${p.price} <small>/ plan</small></div><ul class="features">${p.features.map(x=>`<li>${x}</li>`).join("")}</ul><button class="btn" onclick="openModal(${i})">Order Now</button></article>`).join("")}
+function openModal(i){let p=products[i];document.getElementById("modalTitle").textContent=p.name+" — "+p.duration;document.getElementById("modalText").textContent="Connect this button to your WhatsApp checkout or payment page before publishing.";document.getElementById("orderBtn").href="https://wa.me/?text="+encodeURIComponent("Hello, I want to order "+p.name+" - "+p.duration+" - "+p.price);document.getElementById("modal").classList.add("show")}
+function closeModal(){document.getElementById("modal").classList.remove("show")}
+search.oninput=render;duration.onchange=render;render();
+</script>
+</body></html>
