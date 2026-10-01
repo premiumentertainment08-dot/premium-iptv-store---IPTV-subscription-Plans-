@@ -1,0 +1,646 @@
+[
+  {
+    "name": "Star TV IPTV",
+    "cat": "IPTV Services",
+    "price": 399,
+    "meta": "3 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "Star TV IPTV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "Star TV IPTV",
+    "cat": "IPTV Services",
+    "price": 1199,
+    "meta": "12 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "StarShare IPTV",
+    "cat": "IPTV Services",
+    "price": 399,
+    "meta": "3 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "StarShare IPTV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "StarShare IPTV",
+    "cat": "IPTV Services",
+    "price": 1199,
+    "meta": "12 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "BOSTV Prime IPTV",
+    "cat": "IPTV Services",
+    "price": 299,
+    "meta": "3 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "BOSTV Prime IPTV",
+    "cat": "IPTV Services",
+    "price": 499,
+    "meta": "6 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "BOSTV Prime IPTV",
+    "cat": "IPTV Services",
+    "price": 899,
+    "meta": "12 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "Rolex TV IPTV",
+    "cat": "IPTV Services",
+    "price": 299,
+    "meta": "3 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "Rolex TV IPTV",
+    "cat": "IPTV Services",
+    "price": 499,
+    "meta": "6 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "Rolex TV IPTV",
+    "cat": "IPTV Services",
+    "price": 899,
+    "meta": "12 Months • 11,000+ Live Channels",
+    "tag": "11K+ CHANNELS"
+  },
+  {
+    "name": "IBOSOL Player Activation",
+    "cat": "IPTV Services",
+    "price": 600,
+    "meta": "1 Year • Premium Player Activation",
+    "tag": "1 YEAR"
+  },
+  {
+    "name": "IBOSOL Player Activation",
+    "cat": "IPTV Services",
+    "price": 1200,
+    "meta": "Lifetime • Premium Player Activation",
+    "tag": "LIFETIME"
+  },
+  {
+    "name": "IBOSOL Reseller Panel",
+    "cat": "IPTV Services",
+    "price": 6000,
+    "meta": "20 Credits • Activation on your mail",
+    "tag": "20 CREDITS"
+  },
+  {
+    "name": "IBOSOL Reseller Panel",
+    "cat": "IPTV Services",
+    "price": 14000,
+    "meta": "50 Credits • Activation on your mail",
+    "tag": "50 CREDITS"
+  },
+  {
+    "name": "IBOSOL Reseller Panel",
+    "cat": "IPTV Services",
+    "price": 28000,
+    "meta": "100 Credits • Activation on your mail",
+    "tag": "100 CREDITS"
+  },
+  {
+    "name": "Tiger IPTV",
+    "cat": "IPTV Services",
+    "price": 499,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Tiger IPTV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Tiger IPTV",
+    "cat": "IPTV Services",
+    "price": 1249,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Bigo IPTV",
+    "cat": "IPTV Services",
+    "price": 399,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Bigo IPTV",
+    "cat": "IPTV Services",
+    "price": 599,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Bigo IPTV",
+    "cat": "IPTV Services",
+    "price": 999,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "XXX IPTV",
+    "cat": "IPTV Services",
+    "price": 449,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "XXX IPTV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "XXX IPTV",
+    "cat": "IPTV Services",
+    "price": 1049,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Umbrella IPTV",
+    "cat": "IPTV Services",
+    "price": 449,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Umbrella IPTV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Umbrella IPTV",
+    "cat": "IPTV Services",
+    "price": 1049,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Maya TV",
+    "cat": "IPTV Services",
+    "price": 449,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Maya TV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Maya TV",
+    "cat": "IPTV Services",
+    "price": 1049,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Ziggtv",
+    "cat": "IPTV Services",
+    "price": 449,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Ziggtv",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Ziggtv",
+    "cat": "IPTV Services",
+    "price": 1049,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Fynix IPTV",
+    "cat": "IPTV Services",
+    "price": 449,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Fynix IPTV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Fynix IPTV",
+    "cat": "IPTV Services",
+    "price": 1049,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Strong 8K",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Strong 8K",
+    "cat": "IPTV Services",
+    "price": 799,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Strong 8K",
+    "cat": "IPTV Services",
+    "price": 1205,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Super IPTV",
+    "cat": "IPTV Services",
+    "price": 449,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Super IPTV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Super IPTV",
+    "cat": "IPTV Services",
+    "price": 1049,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Crystal TV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Crystal TV",
+    "cat": "IPTV Services",
+    "price": 849,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Crystal TV",
+    "cat": "IPTV Services",
+    "price": 1199,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Zumtv IPTV",
+    "cat": "IPTV Services",
+    "price": 499,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Zumtv IPTV",
+    "cat": "IPTV Services",
+    "price": 649,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Zumtv IPTV",
+    "cat": "IPTV Services",
+    "price": 999,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "ASTV",
+    "cat": "IPTV Services",
+    "price": 399,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "ASTV",
+    "cat": "IPTV Services",
+    "price": 649,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "ASTV",
+    "cat": "IPTV Services",
+    "price": 899,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Strong 4K IPTV",
+    "cat": "IPTV Services",
+    "price": 449,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Strong 4K IPTV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Strong 4K IPTV",
+    "cat": "IPTV Services",
+    "price": 1049,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Fiber Stream IPTV",
+    "cat": "IPTV Services",
+    "price": 299,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Fiber Stream IPTV",
+    "cat": "IPTV Services",
+    "price": 499,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Fiber Stream IPTV",
+    "cat": "IPTV Services",
+    "price": 799,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "B1G IPTV",
+    "cat": "IPTV Services",
+    "price": 449,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "B1G IPTV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "B1G IPTV",
+    "cat": "IPTV Services",
+    "price": 1199,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Filex IPTV",
+    "cat": "IPTV Services",
+    "price": 449,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Filex IPTV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Filex IPTV",
+    "cat": "IPTV Services",
+    "price": 1049,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Trex IPTV",
+    "cat": "IPTV Services",
+    "price": 449,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Trex IPTV",
+    "cat": "IPTV Services",
+    "price": 699,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Trex IPTV",
+    "cat": "IPTV Services",
+    "price": 1049,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Opplex IPTV",
+    "cat": "IPTV Services",
+    "price": 399,
+    "meta": "3 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Opplex IPTV",
+    "cat": "IPTV Services",
+    "price": 599,
+    "meta": "6 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Opplex IPTV",
+    "cat": "IPTV Services",
+    "price": 999,
+    "meta": "12 Months • Premium IPTV Service",
+    "tag": "IPTV"
+  },
+  {
+    "name": "Star TV IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "StarShare IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "BOSTV Prime IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 20,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Rolex TV IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 20,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Tiger IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Bigo IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Umbrella IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Maya TV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Ziggtv Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Fynix IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Strong 8K Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Super IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Crystal TV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Zumtv IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "ASTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Strong 4K IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Fiber Stream IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "B1G IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Filex IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 99,
+    "meta": "Demo • 24 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Trex IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 50,
+    "meta": "Demo • 12 Hours",
+    "tag": "DEMO"
+  },
+  {
+    "name": "Opplex IPTV Demo",
+    "cat": "IPTV Services",
+    "price": 20,
+    "meta": "Demo • 12 Hours",
+    "tag": "DEMO"
+  }
+]
